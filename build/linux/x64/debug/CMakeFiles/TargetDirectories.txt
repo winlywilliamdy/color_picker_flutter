@@ -1,0 +1,14 @@
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/install.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/CMakeFiles/color_picker.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/it/Documents/color_picker/color_picker/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
